@@ -25,7 +25,7 @@ Este es un sistema integral de gestión para una tienda online de tecnología, d
 - **Backend:** PHP 8.x
 - **Base de Datos:** MySQL (MariaDB)
 - **Frontend:** HTML5, CSS3 (Custom Properties & Keyframes)
-- **Librerías:** - [Chart.js](https://www.chartjs.org/) para analítica visual.
+- **Librerías:** - 
   - [FontAwesome 6](https://fontawesome.com/) para iconografía.
   - Google Fonts (Inter/Segoe UI).
 
